@@ -2,21 +2,6 @@
 Analyzed the amount of money being spent every day on transport, food, grocery, etc. also compared cities on the basis of daily expenses. Used the data to predict future expenses. 
 # analyzing daily expenses, real use-case
 
-### Revision 1.1. - the 1.0 version, made until the deadline is in the repo
-
-> I don't see the benefit of this being a gist, let alone a jupyter notebook, if
-one is so eager to run the code themselves I provided one with minor changes
-due to the original code using API keys I'm not willing to share.
-
-## Motivation
-
-Each day people spend money on various things.
-Each transaction holds a bunch of meta information.
-Instead of going to waste, that information can be used to learn about one's tendencies.
-What percentage of money is spent on food? On transport? Traveling?
-How expensive are the cities that were visited?
-How much money is spent daily? Weekly? Monthly?
-Can we use the data to predict future expenses?
 
 ## Objective of the study:
 
