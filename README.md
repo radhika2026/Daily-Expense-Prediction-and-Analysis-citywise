@@ -13,26 +13,6 @@ The objective is to answer a series of questions:
 4. How much money is spent daily?
 5. How much money will be spent in the upcoming days?
 
-## Collecting the data
-
-Due to the specific nature of objectives it is highly unlikely the needed data would have already been collected and published.
-That is why, starting from 19th of September 2018, I started keeping track of my daily expenses in the following form:
-```
-1   hrk - croatian kuna, amount of money spent in the currency of Croatia,
-2   vendor - company that I bought an item/service from,
-3   date - DD.MM.YYYY or DD.MM.,
-4   description - specifically what I spent money on (ice-skating, food, bus, alcohol...),
-5   meansofpayment - cash/credit-card/paypal,
-6   city - lowercase name of the city,
-7   category - more general than description e.g. (bus, train, tram) -> transport,
-8   currency - three letter code of the currency e.g. HRK, EUR, PLN...,
-9   country - lowercase name of the country (shortened name if possible e.g. czechia),
-10  lcy - local currency, amount of money spent in the local currency of current transaction,
-11  eur - euro, amount of money spent in euros,
-12  tags - something that will remind me of the record,
-13  recurrence - is the expense likely to be repeated (yes/no)
-```
-
 ### Questions 1-4 pseudocode
 
 1. preprocess
